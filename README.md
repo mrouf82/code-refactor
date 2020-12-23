@@ -20,9 +20,3 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 -Mohammad Rouf
-
-A semantic element clearly describes its meaning to both the browser and the developer.
-Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
-Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content
-
-- From W3school
