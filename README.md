@@ -1,11 +1,9 @@
 This project works to improve the acessibility of the website following the acessbility standards. This is used to optimize for search engines. Some of the aspects that this project has focus on improving is:
 --improving the semantic HTML elements, structure of the HTML, structure of styling and positioning, add acessible alt attributes to images, bring about a sequential order for heading atrributes.
-
 Website: htpps://mrouf82.github.io/code-refactor/
 
 Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
-
 WHEN I view the source code
 THEN I find semantic HTML elements
 
@@ -21,4 +19,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Hello!
+-Mohammad Rouf
+
+A semantic element clearly describes its meaning to both the browser and the developer.
+Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
+Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content
+
+- From W3school
