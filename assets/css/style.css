@@ -88,35 +88,21 @@ aside {
   background-color: #2589bd;
 }
 /*style properties for the benefit lead class*/
-.benefit-lead {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-/*style properties for the benetfit brand class*/
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-/*style properties for the benifit cost class*/
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
+
 /*style properties for the header of benefit lead class*/
-.benefit-lead h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-/*style properties for the header of benefit brand class*/
-.benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-/*style properties for the header of benefit cost class*/
+.benefit-lead h3,
+.benefit-brand h3,
 .benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
 }
+
 /*style properties for the image of benefit lead class*/
 .benefit-lead img {
   display: block;
